@@ -21,4 +21,4 @@ Levels Web Page
 ![Trade Flow](/images/LevelsPage.png) <br /><br /><br />
 
 
-Created By: Gautam R Patankar
+Created By: Gautam Patankar
