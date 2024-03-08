@@ -12,6 +12,10 @@ Trade Flow
 
 ![Trade Flow](/images/TradeFlow.png) <br /><br /><br />
 
+Trade Flow Architecture
+
+![Trade Flow Architecture](/images/TradeFlowArch.png) <br /><br /><br />
+
 Trigger Web Page
 
 ![Trade Flow](/images/TriggerPage.png) <br /><br /><br />
