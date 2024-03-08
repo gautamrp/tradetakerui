@@ -1,7 +1,9 @@
 # Trade Taker UI
 
 
-## [`TradeTaker`](http://ec2-43-204-211-171.ap-south-1.compute.amazonaws.com:3000/) <br /><br /><br />
+## [`TradeTaker UI`](http://ec2-43-204-211-171.ap-south-1.compute.amazonaws.com:3000/) <br /><br />
+
+## [`TradeTaker API`](http://ec2-43-204-211-171.ap-south-1.compute.amazonaws.com:8080/tradetaker/v1/health) <br /><br />
 
 ---
 
