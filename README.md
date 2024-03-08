@@ -20,5 +20,13 @@ Levels Web Page
 
 ![Trade Flow](/images/LevelsPage.png) <br /><br /><br />
 
+Trade on TradeTasker
+
+![Trade Flow](/images/TradeTasker.png) <br /><br /><br />
+
+Telegram Post
+
+![Trade Flow](/images/Telegram.png) <br /><br /><br />
+
 
 Created By: Gautam Patankar
