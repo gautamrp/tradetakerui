@@ -1,0 +1,39 @@
+plugins {
+	id 'groovy'
+	id 'org.springframework.boot' version '3.2.2'
+	id 'io.spring.dependency-management' version '1.1.4'
+}
+
+group = 'com.tradetaker'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	sourceCompatibility = '17'
+}
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-actuator'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	//implementation 'org.springframework.boot:spring-boot-starter-security'
+	implementation 'org.springframework.boot:spring-boot-starter-groovy-templates'
+	implementation 'org.apache.groovy:groovy'
+	implementation 'org.springframework.data:spring-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.postgresql:postgresql'
+	implementation 'com.google.code.gson:gson'
+	implementation 'jakarta.ws.rs:jakarta.ws.rs-api:2.1.6'
+	implementation 'org.projectlombok:lombok'
+	//runtimeOnly 'org.postgresql:postgresql'
+}
+
+
